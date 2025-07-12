@@ -52,4 +52,5 @@ The invoice should contain the following fields:
 ## Setup Instructions:
 
 * Start the project by running `./start.sh`.
+* Perform tests by running `./run-tests.sh`.
 * To access the container environment, use: `docker compose exec app bash`.
